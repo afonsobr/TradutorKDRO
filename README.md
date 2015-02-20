@@ -1,6 +1,43 @@
 # TradutorKDRO
-Tradutor para o Digimon RPG 
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdddddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNmhso+/:::::::::::/++sydNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNdy+/:/+oshddmmmmmmmddhys+/::+shmNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNds/:/oydmdhyo+/////////+osyhdmhs+:/ohmNNNNNNNNNNNNN
+NNNNNNNNNNNNy+:/sdmdy+/::::::::::::::::::::/oydmy+:/smNNNNNNNNNNN
+NNNNNNNNNNNNyohmds/::::::::::::::/++oso/::::::/+yddydNNNNNNNNNNNN
+NNNNNNNNdNNNNNh+::::::::::::/+sydmNNNNNNhooo+/:::/odNNNmsmNNNNNNN
+NNNNNNm:`/NNh+::::::::::::+hmNNNNNNNNNNNNNNNNNdy+:::omN/ .yNNNNNN
+NNNNNh. -dmo:::::::::::::yNNNNNNNNNNNNNNNNNNNNNNNh+::/ymo `oNNNNN
+NNNNh` /md+::::::::::::/yNNNNNNNNNNmdddNNNNNNNNNNNmo:::omy` +NNNN
+NNNd` /Nd/:::::::::+oydmNNNNNNNNNNh/:://smNNNNNNNNNNo:::+my` oNNN
+NNN- -mm/::::::/oydNNNNNNNNNNNNNNd/::::::+NNNNNNNNNNm/:::oNo `hNN
+NNs  hNo::::+sdmNNNNNNNNNNNNNNNNNo:::::::oNNNNNNNNNNNy::::yN- -NN
+NN. :Nd::+sdNNNNNNNNNNNNNNNNNNNNNy+////+smNNNNNNNNNNNd::::/Ny  yN
+Nh  yNo:yNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmNNNNNNNNNNNNNNd:::::hN` /N
+Ns  dN++NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNo:::::sN- .N
+No  mN/oNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNy::::::oN/ .N
+No  dN/oNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNy:::::::sN: .N
+Nh  yNo:hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNo::::::::hN. :N
+Nm. /Nh::sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNy/::::::/mh  sN
+NN+ `dN+::/dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmo/::::yN: .mN
+NNm. :Nd/:::+yddhhhyyysssssssymNNNNNNNNNNNNNNNNNNNNNNdo::+Ny  sNN
+NNNy` oNh/::::::::::::::::::::/ydmmmNNNNNNNNNNNNNNNNNNNdomd` /NNN
+NNNNs  oNh/::::::::::::::::::::::::/omNNNNNNNNNNNNNNNNNNNd. :mNNN
+NNNNNs` /Nm+:::::::::::::::::::::::::hNNNNNNNNNNNNNNNNNNy` :mNNNN
+NNNNNNh.:dNNy/:::::::::::::::::::::::sNNNNNNNNNNNNNNNNNh.`+NNNNNN
+NNNNNNNNNNNNNmy/:::::::::::::::::::::/hNNNNNNNNNNNNNNNNNmdNNNNNNN
+NNNNNNNNNNNy+smmho/:::::::::::::::::::/NNNNNNNNNNNNhsdNNNNNNNNNNN
+NNNNNNNNNNNdo/:ohmmho/::::::::::::::::+NNNNNNNNNds/:+yNNNNNNNNNNN
+NNNNNNNNNNNNNmy+:/oydNmhyo+//::::::::/+NNNNNmhs/:/sdNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNmyo/:/+sydmmmmmddddmmmmdhso/::+sdNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNdhs+/:::://+++///:::/+oydNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNmdhhhyyyyhhdmNNNNNNNNNNNNNNNNNNNNNNNNNN
 
-Basta substituir o seu DigimonRPG.bin
 
+1. Faça um Backup do seu DigimonRPG.bin
+2. Extraia tudo na pasta do DigimonRPG
+3. Bom jogo.
 
+Créditos a afonsobr da MundoDMO
+
+versao 20150220 - para kdrov621 DRPG733
