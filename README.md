@@ -1,4 +1,4 @@
-﻿# Tradutor KDRO733 
+﻿# Tradutor KDRO734
 1. Faça um Backup do seu DigimonRPG.bin
 2. Clique em "Download Zip"
 3. Extraia o arquivo DigimonRPG.ini na pasta do seu DigimonRPG (geralmente é "C:\Movegames\DigimonRPG") e mande substituir.
